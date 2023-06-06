@@ -1,0 +1,3 @@
+C:/Users/allen/CLionProjects/PP2 - Insertion Sort/cmake-build-debug/CMakeFiles/PP2___Insertion_Sort.dir
+C:/Users/allen/CLionProjects/PP2 - Insertion Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/allen/CLionProjects/PP2 - Insertion Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
